@@ -1,4 +1,4 @@
-import NavBar from "./componentes/NavBar/Navbar";
+import NavBar from "./componentes/NavBar/NavBar";
 import "./App.css"
 import ItemListContainer from  "./componentes/ItemListContainer/ItemListContainer";
 
